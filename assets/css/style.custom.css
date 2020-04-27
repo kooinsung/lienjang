@@ -1,0 +1,335 @@
+.kt-width-100per{
+    width:100% !important;
+}
+.kt-width-50per{
+    width:50% !important;
+}
+
+@media (max-width: 1024px){
+    .kt-width-50per{
+        width:100%  !important;;
+    }
+}
+.kt-mt-3{
+    margin-top:3px !important;
+}
+.kt-h20{
+    height:20px !important;
+}
+.kt-h30{
+    height:30px !important;
+}
+.kt-h50{
+    height:50px !important;
+}
+.lineHeight-110{
+    line-height:110%;
+}
+.lineHeight-30{
+    line-height:30px;
+}
+.kt-custom-list-info{
+    position:relative;
+    display:block;
+    width:100%;
+}
+.kt-custom-list-info ul, .kt-custom-list-info2 ul{
+    margin:0;
+    padding:0;
+    display:table;
+}
+.kt-custom-list-info li, .kt-custom-list-info2 li{
+    position:relative;
+    list-style: none;
+    vertical-align: middle;
+    display:table-cell;
+    /*height:40px;*/
+    line-height:120%;
+    padding-right:15px;
+    text-align:center;
+}
+.kt-custom-list-info2 li:first-child{
+    padding-right:40px;
+}
+.kt-custom-list-info2 li:last-child{
+    padding-left:15px;
+}
+.kt-custom-list-info li:first-child dt, .kt-custom-list-info li:first-child dd,.kt-custom-list-info li:last-child dt, .kt-custom-list-info li:last-child dd{
+    display:inline-block;
+    overflow:visible;
+}
+.kt-custom-list-info li:first-child dt{
+
+}
+.kt-custom-list-info li:first-child dt{
+
+}
+.kt-custom-list-info dl, .kt-custom-list-info2 dl{
+    margin:0;
+    padding:0;
+}
+
+.kt-custom-list-info dt, .kt-custom-list-info2 dt{
+    margin:0;
+    padding:0;
+    font-size:10px !important;
+    font-weight:normal;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+}
+.kt-custom-list-info dd{
+    margin:0 0 0 0;
+    padding:0;
+    font-size:12px !important;
+    display:block;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+}
+.kt-custom-list-info dd .kt-badge{
+
+}
+.kt-custom-list-info .fontFamily-change{
+    font-style:normal;
+    font-family: 'Arial', sans-serif;
+}
+.kt-custom-list-info .ellipsis, .kt-custom-list-info2 .ellipsis{
+    max-width:100px;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+}
+.kt-custom-list-info2 .modify{
+    position:absolute;
+    top:50%;
+    right:0;
+    -webkit-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+
+.kt-custom-list-info .solo{
+    position:absolute;
+    top:2px;
+    right:0;
+}
+
+@media (max-width: 1024px) {
+    .kt-custom-list-info li{
+        width:33.33% !important;
+        display:inline-block;
+        height:auto;
+        padding:3px 0;
+    }
+}
+.kt-custom-checkbox-list label{
+    font-size: 1rem;
+    font-weight: 400;
+}
+.kt-custom-checkbox-list ul{
+    position:relative;
+    top:-5px;
+}
+.kt-custom-checkbox-list li{
+    display:inline-block;
+    text-align:left !important;
+    width:50% !important;
+    padding: 4px 0 !important;
+    height:auto !important;
+    line-height:100% !important;
+}
+.kt-custom-list-info-bts .btn{
+    height: 32px !important;
+}
+.active-fav i:before{
+    color: #ffb822;
+}
+
+.in-row{
+    margin-left:-5px;
+    margin-right:-5px;
+}
+
+.kt-shadow-none{
+    box-shadow:none;
+    -webkit-box-shadow:none;
+}
+
+.kt-min-height-30{
+    min-height:30px !important
+}
+
+.kt-position-relative{
+    position:relative !important;
+}
+
+.kt-checkbox.kt-checkbox-sm{
+    padding-left:18px;
+    font-size:12px;
+    line-height:14px;
+}
+.kt-checkbox.kt-checkbox-sm > span{
+    width:14px;
+    height:14px;
+}
+.kt-checkbox.kt-checkbox-sm > span:after{
+    margin-top: -5px;
+    width: 4px;
+    height: 8px;
+    border-width: 0 1px 1px 0/*rtl:ignore*/ !important;
+}
+.input-group-button{
+    border:0;
+    padding:0;
+    position:absolute;
+    top:0;
+    right:0;
+    left:0;
+    bottom:0;
+    width:100%;
+    background:transparent;
+}
+.col-custom-inner{
+    margin-left:10px;
+}
+.form-control-xsm {
+    height: calc(1.5em + 1rem + 2px);
+    padding: 0.5rem 1rem;
+    font-size: 0.75rem;
+    line-height: 1.5;
+    border-radius: 0.2rem;
+}
+.kt-custom-select{
+    position:relative;
+}
+.kt-custom-select select{
+    background:none;
+}
+.kt-custom-select:after{
+    content:"\f1a9";
+    font-size:10px;
+    position:absolute;
+    top:50%;
+    right:10px;
+    -webkit-transform: translateY(-50%);
+    transform: translateY(-50%);
+    color:#74788d;
+    font-family: Flaticon2;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    line-height: 1;
+    text-decoration: inherit;
+    text-rendering: optimizeLegibility;
+    text-transform: none;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    font-smoothing: antialiased;
+}
+.kt-custom-reservation-infos{
+    line-height:100%;
+    padding:2px 0;
+}
+.kt-custom-reservation-infos dl{
+    position:relative;
+    display:inline-block;
+    font-size:11px;
+    margin:0 0 0 5px;
+    padding:0;
+}
+.kt-custom-reservation-infos dl:after{
+    content:'/';
+    margin-left:5px;
+}
+.kt-custom-reservation-infos dl:last-child:after{
+    content:'';
+    display:none;
+}
+.kt-custom-reservation-infos dt{
+    display:inline-block;
+    margin:0;
+    padding:0;
+}
+.kt-custom-reservation-infos dd{
+    display:inline-block;
+    margin:0;
+    padding:0;
+}
+.kt-custom-reservation-labels{
+    line-height:100%;
+    padding:2px 0;
+}
+.kt-custom-reservation-labels span{
+    position:relative;
+    font-size:11px;
+    margin-left:5px;
+    vertical-align: top;
+    display:inline-block;
+    padding-left:12px;
+    letter-spacing:-0.5px;
+}
+.kt-custom-reservation-labels i{
+    position:absolute;
+    top:50%;
+    left:0;
+    -webkit-transform: translateY(-50%);
+    transform: translateY(-50%);
+    display:inline-block;
+    width:10px;
+    height:10px;
+    border:1px solid red;
+}
+.kt-horizontal-date{
+    border:1px solid #ddd;
+}
+.kt-horizontal-date ul{
+    margin:0;
+    padding:0;
+    font-size:0;
+}
+.kt-horizontal-date li{
+    display:inline-block;
+    text-align:center;
+    box-sizing: border-box;
+    table-layout: fixed;
+    border-right:1px solid #ddd;
+    width:30px;
+}
+.kt-horizontal-date li.sun strong, .kt-horizontal-date li.holiday strong{
+    color:red;
+}
+.kt-horizontal-date li.sun span, .kt-horizontal-date li.holiday span{
+    color:red;
+}
+.kt-horizontal-date li.sat strong{
+    color:blue;
+}
+.kt-horizontal-date li.sat span{
+    color:blue;
+}
+.kt-horizontal-date strong{
+    position:relative;
+    display:block;
+    font-size:10px;
+    line-height:100%;
+    padding:5px 0;
+}
+.kt-horizontal-date strong::after{
+    content:'';
+    position:absolute;
+    bottom:0;
+    left:50%;
+    width:60%;
+    margin-left:-30%;
+    height:1px;
+    background:#ddd;
+}
+.kt-horizontal-date span{
+    display:block;
+    font-size:11px;
+    line-height:100%;
+    padding:5px 0;
+}
