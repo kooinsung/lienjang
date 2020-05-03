@@ -280,7 +280,6 @@
     display:inline-block;
     width:10px;
     height:10px;
-    border:1px solid red;
 }
 .kt-horizontal-date{
     border:1px solid #ddd;
@@ -332,4 +331,420 @@
     font-size:11px;
     line-height:100%;
     padding:5px 0;
+}
+.kt-picture-lists{
+    overflow:hidden;
+    overflow-x:auto;
+    border:5px solid #ebedf2;
+    padding:10px;
+}
+.kt-picture-lists ul{
+    width:200%;
+    font-size:0;
+    margin:0;
+    padding:0;
+}
+.kt-picture-lists li{
+    display:inline-block;
+    width:130px;
+    margin:0 5px;
+}
+.kt-picture-lists a{
+    display:block;
+    color:#000;
+}
+.kt-picture-lists .thumb{
+    display:block;
+    width:130px;
+    height:150px;
+    text-align:center;
+    margin-bottom:5px;;
+}
+.kt-picture-lists .title{
+    font-size:14px;
+    text-overflow:ellipsis;
+    white-space:nowrap;
+    word-wrap:normal;
+    overflow:hidden;
+    margin:0 5px;
+}
+
+.kt-picture-lists .date{
+    font-size:14px;
+    text-overflow:ellipsis;
+    white-space:nowrap;
+    word-wrap:normal;
+    overflow:hidden;
+    margin:0 5px;
+}
+.kt-picture-big{
+    background:#000;
+    padding:20px;
+}
+.kt-picture-big .summary{
+    color:#fff;
+    font-size:26px;
+    font-weight:bold;
+    text-align:center;
+    margin-bottom:10px;
+}
+.kt-picture-big .picture{
+    text-align:center;
+}
+
+.kt-picture-big .picture img{
+    max-width:100%;
+    max-height:100%;
+}
+.kt-tree-menu ul{
+    margin:0;
+    padding:0;
+}
+.kt-tree-menu li{
+    list-style: none;
+}
+.kt-tree-menu .tree-item{
+
+}
+.kt-tree-menu .kt-checkbox{
+    margin:0;
+}
+.kt-tree-menu .kt-checkbox .fa{
+    font-size:17px;
+    margin-left:5px;
+    margin-top:1px;
+
+}
+.kt-tree-menu .kt-checkbox .fa-folder,
+.kt-tree-menu .kt-checkbox .fa-folder-plus,
+.kt-tree-menu .kt-checkbox .fa-folder-minus,
+.kt-tree-menu .kt-checkbox .fa-folder-open{
+    color:#fdb736;
+}
+.kt-tree-menu .kt-checkbox .fa-folder.disabled,
+.kt-tree-menu .kt-checkbox .fa-folder-plus.disabled,
+.kt-tree-menu .kt-checkbox .fa-folder-minus.disabled,
+.kt-tree-menu .kt-checkbox .fa-folder-open.disabled{
+    color:#55586a;
+}
+.kt-tree-menu .tree-more{
+    position:absolute;
+    top:0;
+    left:0;
+    font-size:19px;
+    display:inline-block;
+    vertical-align: top;
+    margin-right:10px;
+}
+.kt-tree-menu .tree-more button{
+    background:none;
+    padding:0;
+    border:0;
+}
+.kt-tree-menu .fa{
+    vertical-align: top;
+}
+.kt-tree-menu .depth1-item{
+
+}
+.kt-tree-menu .tree-item{
+    position:relative;
+    padding-left:25px;
+    margin:10px 0;
+}
+.kt-tree-menu .depth2{
+    margin:10px 0 0 28px;
+}
+.kt-tree-menu .depth3{
+    margin:10px 0 0 28px;
+}
+
+.kt-form1{
+    color:#000;
+    border-bottom:1px solid #000;
+}
+.kt-form1 .rule{
+    font-size:13px;
+}
+.kt-form1 table{
+    width:100%;
+    table-layout: fixed;
+    color:#000;
+    font-size:15px;
+}
+.kt-form1 table thead th{
+
+}
+.kt-form1 table thead th span{
+    font-size:30px;
+    display:inline-block;
+    margin:0 30px;
+    font-weight:600;
+    padding:50px 0;
+}
+.kt-form1 table tbody td{
+    padding:10px;
+    font-size:15px;
+}
+.kt-form1 table tbody th{
+    padding:10px;
+    font-weight:400;
+    border:1px solid #000;
+    font-size:16px;
+    line-height:120%;
+}
+.kt-form1 table tbody td.td-line{
+    border:1px solid #000;
+}
+.kt-form1 table tbody td.numbers{
+    padding:0 0 10px 0;
+}
+.kt-form1 table tbody td.numbers .numbers-box{
+    border:1px solid #000;
+}
+.kt-form1 table tbody td.numbers .numbers-box dl{
+    position:relative;
+    margin:0;
+    padding:5px 0;
+}
+.kt-form1 table tbody td.numbers .numbers-box dl:first-child{
+    border-bottom:1px solid #000;
+}
+.kt-form1 table tbody td.numbers .numbers-box dt{
+    position:absolute;
+    top:5px;
+    left:0;
+    font-weight:normal;
+    display:inline-block;
+    width:70px;
+    line-height:32px;
+    padding-left:10px;
+}
+.kt-form1 table tbody td.numbers .numbers-box dd{
+    margin:0 10px 0 70px;
+}
+.kt-form1 .form-input{
+    display:block;
+
+}
+.kt-form1 .form-input.line{
+    border-bottom:1px solid #000;
+}
+.kt-form1 .form-input input{
+    width:100%;
+    border:0;
+    font-size:14px;
+    padding:5px 0;
+}
+.kt-form1 table tbody td.no-line{
+    border:0;
+}
+.kt-form1 table tbody td .phone{
+    margin-top:5px;
+}
+.kt-form1 table tbody td .phone .form-input{
+    display:inline-block;
+    width:30%;
+}
+.kt-form1 table tbody td.mark{
+    vertical-align: top;
+    background:#fff;
+}
+.kt-form1 table tbody th .choice dl{
+    margin:5px 0 0 0;
+}
+.kt-form1 table tbody th .choice dt{
+    margin:0;
+    font-weight:400;
+    display:inline-block;
+}
+.kt-form1 table tbody th .choice dt .kt-checkbox{
+    vertical-align: top;
+    padding-left: 18px;
+    margin:0 3px;
+}
+.kt-form1 table tbody th .choice dd{
+    width:80px;
+    display:inline-block;
+    margin:0;
+    text-align:left;
+}
+.kt-form1 table tbody td .ju dl{
+    margin:0;
+}
+.kt-form1 table tbody td .ju dt{
+    margin:0;
+    font-weight:400;
+}
+.kt-form1 table tbody td .ju dd{
+    margin:0;
+}
+.kt-form1 table tbody td .mark{
+    background:#fff;
+}
+.kt-form1 table tbody td .mark dl{
+    margin:0;
+}
+.kt-form1 table tbody td .mark dt{
+    font-weight:400;
+    margin:0;
+}
+.kt-form1 table tbody td .mark dd{
+    margin:0;
+}
+.kt-form1 table .no-left-line{
+    border-left:0 !important;
+}
+.kt-form1 table .no-right-line{
+    border-right:0 !important;
+}
+
+.kt-form1 .form-date ul{
+    margin:0;
+    padding:0;
+    font-size:0;
+}
+
+.kt-form1 .form-date li{
+    display:inline-block;
+    position:relative;
+}
+.kt-form1 .form-date li .form-input{
+    margin-right:30px;
+}
+.kt-form1 .form-date li:after{
+    content:'';
+    position:absolute;
+    top:0;
+    right:10px;
+    font-size:14px;
+    line-height:32px;
+}
+.kt-form1 .form-date li.year{
+    width:50%;
+}
+.kt-form1 .form-date li.year:after{
+    content:'년';
+}
+.kt-form1 .form-date li.month{
+    width:25%;
+}
+.kt-form1 .form-date li.month:after{
+    content:'월';
+}
+.kt-form1 .form-date li.day{
+    width:25%;
+}
+.kt-form1 .form-date li.day:after{
+    content:'월';
+}
+
+.kt-form1 .form-textarea{
+    border:1px solid #000;
+    display:block;
+    padding:5px;
+}
+.kt-form1 .form-textarea textarea{
+    border:0;
+    width:100%;
+}
+.kt-form1 .form-text{
+    padding:10px;
+    font-size:15px;
+}
+.kt-form1 .out-dates{
+    width:30%;
+    margin-left:70%;
+    margin:20px 0 30px 70%;
+}
+.kt-form1 .out-dates .form-date{
+    margin-right:10px;
+}
+.kt-form1 .form-info1{
+    margin:0 20% 0 20%;
+}
+.kt-form1 .form-info1 dl{
+    position:relative;
+    margin:0;
+    padding:10px 0;
+}
+.kt-form1 .form-info1 dt{
+    position:absolute;
+    top:10px;
+    left:0;
+    font-size:15px;
+    font-weight:300;
+    margin:0;
+    padding:0;
+    display:inline-block;
+    width:100px;
+    line-height:32px;
+}
+.kt-form1 .form-info1 dd{
+    margin:0 0 0 100px;
+    padding:0;
+}
+.kt-form1 .form-info2{
+    width:50%;
+    text-align:right;
+    margin-left:50%;
+    margin-top:30px;
+}
+.kt-form1 .form-info2 dl{
+    display:inline-block;
+    margin-right:20px;
+}
+.kt-form1 .form-info2 dl{
+    font-size:15px;
+}
+.kt-form1 .form-info2 dt{
+    display:inline-block;
+    font-weight:300;
+}
+.kt-form1 .form-info2 dd{
+    display:inline-block;
+}
+.kt-form1 .form-info2 .kt-checkbox{
+    vertical-align: top;
+    padding-left: 18px;
+    margin:0 3px;
+}
+.kt-form1 .form-info2 .number .form-input{
+    display:inline-block;
+}
+.kt-form1 .form-info3{
+    width:50%;
+    text-align:right;
+    margin-left:50%;
+    margin-top:10px;
+    padding-right:20px;
+    font-size:15px;
+}
+
+.kt-form1 .form-info3  .form-input{
+    display:inline-block;
+    width:300px;
+}
+.form-tips{
+    margin-top:50px;
+}
+.form-tips strong{
+    display:block;
+    text-align:center;
+    font-size:17px;
+    background:#ddd;
+    padding:10px 0;
+}
+.form-tips .tip-lists{
+    padding:5px 20px;
+    padding:5px 20px;
+}
+.form-tips .tip-lists ol{
+    padding:10px 0;
+    margin:0;
+}
+.form-tips .tip-lists li{
+    font-size:15px;
+    padding:5px 0;
+    list-style: none;
 }
