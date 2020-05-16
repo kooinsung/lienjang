@@ -1035,3 +1035,26 @@
     font-size:30px;
     border:0;
 }
+.kt-sticky-toolbar{
+    width: auto !important;
+    padding:3px 4px;
+}
+
+.kt-sticky-toolbar > li{
+    margin:1px 0;
+}
+
+.kt-sticky-toolbar > li > .btn-dark{
+    background:#8c7869;
+    border-color:#50453d;
+}
+.kt-sticky-toolbar > li > .btn-dark:hover{
+    opacity: .9;
+}
+
+.kt-sticky-toolbar > li > .btn-dark:not(:disabled):not(.disabled):active,
+.kt-sticky-toolbar > li > .btn-dark:not(:disabled):not(.disabled).active,
+.show > .kt-sticky-toolbar > li > .btn-dark.dropdown-toggle{
+    background:#8c7869;
+    border-color:#50453d;
+}
