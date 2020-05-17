@@ -494,14 +494,14 @@
     display:inline-block;
     margin:0 30px;
     font-weight:600;
-    padding:10px 0;
+    padding:50px 0;
 }
 .kt-form1 table tbody td{
     padding:10px;
     font-size:15px;
 }
 .kt-form1 table tbody th{
-    padding:5px;
+    padding:10px;
     font-weight:400;
     border:1px solid #000;
     font-size:16px;
@@ -542,7 +542,7 @@
 
 }
 .kt-form1 .form-input.line{
-    border-bottom:1px solid rgba(0, 0, 0, 0.09);
+    border-bottom:1px solid #000;
 }
 .kt-form1 .form-input input{
     width:100%;
@@ -675,8 +675,7 @@
     margin-right:10px;
 }
 .kt-form1 .form-info1{
-    position:relative;
-    padding:0 20% 0 20%;
+    margin:0 20% 0 20%;
 }
 .kt-form1 .form-info1 dl{
     position:relative;
@@ -698,13 +697,6 @@
 .kt-form1 .form-info1 dd{
     margin:0 0 0 100px;
     padding:0;
-}
-.kt-form1 .form-info1 .stamp{
-    position:absolute;
-    top:50%;
-    right:0;
-    -webkit-transform: translateY(-50%);
-    transform: translateY(-50%);
 }
 .kt-form1 .form-info2{
     width:50%;
@@ -747,21 +739,6 @@
     display:inline-block;
     width:300px;
 }
-
-.kt-form1 .form-info4{
-    width:50%;
-    text-align:right;
-    margin-left:50%;
-    margin-top:10px;
-    padding-right:20px;
-    font-size:15px;
-}
-
-.kt-form1 .form-info4  .form-input{
-    display:inline-block;
-    width:150px;
-}
-
 .form-tips{
     margin-top:50px;
 }
@@ -951,12 +928,12 @@
 
 .kt-home-header{
     text-align:center;
-    padding:20px 0;
+    padding:40px 0;
     background:#fff;
 }
 
 .kt-home-body{
-    padding-top:40px;
+    padding-top:100px;
 }
 .kt-home-body .menus{
     font-size:0;
@@ -1030,7 +1007,7 @@
     font-size:46px;
     color:#fff;
     font-weight:500;
-    padding:30px 0 35px 0;
+    padding:60px 0 70px 0;
 }
 .kt-home-body .barcode{
     margin:0 10px;
@@ -1057,27 +1034,4 @@
     background:none;
     font-size:30px;
     border:0;
-}
-.kt-sticky-toolbar{
-    width: auto !important;
-    padding:3px 4px;
-}
-
-.kt-sticky-toolbar > li{
-    margin:1px 0;
-}
-
-.kt-sticky-toolbar > li > .btn-dark{
-    background:#8c7869;
-    border-color:#50453d;
-}
-.kt-sticky-toolbar > li > .btn-dark:hover{
-    opacity: .9;
-}
-
-.kt-sticky-toolbar > li > .btn-dark:not(:disabled):not(.disabled):active,
-.kt-sticky-toolbar > li > .btn-dark:not(:disabled):not(.disabled).active,
-.show > .kt-sticky-toolbar > li > .btn-dark.dropdown-toggle{
-    background:#8c7869;
-    border-color:#50453d;
 }

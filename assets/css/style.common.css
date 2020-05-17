@@ -1,0 +1,96 @@
+.scroll-to-top{bottom:2px;}
+.color_label{display:inline-block;vertical-align:top;color:#fff;font-style:normal;font-size:11px;padding:0 3px;height:19px;line-height:18px;letter-spacing: -1px;margin-right:3px;margin-bottom:5px;box-sizing: border-box;}
+.color_label.A010_1{background:#90ee90;}
+.color_label.A010_2{background:#87cefa;}
+.color_label.A010_3{background:#ff5f46;}
+.color_label.A010_4{background:#ee82ee;}
+.color_label.A001_1{background:#dd4477;}
+.color_label.A001_2{background:#994499;}
+.color_label.A001_3{background:#6633cc;}
+.color_label.A001_4{background:#336699;}
+.color_label.A001_6{background:#22aa99;}
+.color_label.A001_7{background:#329262;}
+.color_label.A001_8{background:#109618;}
+.color_label.A001_9{background:#66aa00;}
+.color_label.A001_10{background:#aaaa11;}
+.color_label.A001_12{background:#ee8800;}
+.color_label.A001_13{background:#dd5511;}
+.color_label.A001_14{background:#a87070;}
+.color_label.A001_15{background:#627487;}
+.color_label.A001_16{background:#8c6d8c;}
+.color_label.A001_17{background:#7083a8;}
+.color_label.A001_18{background:#5c8d87;}
+.color_label.A001_11{background:#d6ae00;}
+.color_label.A001_5{background:#3366cc;}
+
+.color_label.A006_3_1{background:#ff6347;}
+.color_label.A006_3_2{background:#90ee90;}
+.color_label.A006_3_3{background:#87cefa;}
+.color_label.A006_3_4{background:#ffb6c1;}
+.color_label.A006_3_5{background:#ee82ee;}
+
+.color_label.A007_2{background:#808080;}
+.color_label.A007_3{background:#808080;}
+.color_label.A007_4{background:#808080;}
+
+.color_label.A009_2_1{border:1px solid #595959;background:none;color:#595959;}
+.color_label.A009_2_2{background:#595959;}
+
+
+.color_label.A011_1{background:#89d2fe;}
+.color_label.A011_2{background:#4064e5;}
+.color_label.A011_3{background:#ff6149;}
+.color_label.A011_4{background:#f20402;}
+
+.color_label.etc1{background:#EC6E55;}
+.color_label.etc2{background:#EC6E55;}
+.color_label.etc3{background:#87cfff;}
+.color_label.etc4{background:#4467d6;}
+.color_label.etc5{background:#2c842b;}
+.color_label.etc6{background:#f7d30e;}
+
+
+
+.ico{text-indent:-9999px;display:inline-block;width:18px;height:18px;}
+.ico.A002_1{background:url('/assets/pages/img/icon/ico_A002_1.png') center center no-repeat;}
+.ico.A002_2{background:url('/assets/pages/img/icon/ico_A002_2.png') center center no-repeat;}
+.ico.A002_3{background:url('/assets/pages/img/icon/ico_A002_3.png') center center no-repeat;}
+.ico.A002_4{background:url('/assets/pages/img/icon/ico_A002_4.png') center center no-repeat;}
+
+.ico.A002_list_1{background:url('/assets/pages/img/icon/ico_A002_1.png'); padding-top:5px}
+.ico.A002_list_2{background:url('/assets/pages/img/icon/ico_A002_2.png') center center no-repeat; padding-top:5px}
+.ico.A002_list_3{background:url('/assets/pages/img/icon/ico_A002_3.png') center center no-repeat; padding-top:5px}
+.ico.A002_list_4{background:url('/assets/pages/img/icon/ico_A002_4.png') center center no-repeat; padding-top:5px}
+
+.ico.A006_1_2{background:url('/assets/pages/img/icon/ico_A006_1_2.png') center center no-repeat;}
+.ico.A006_1_3{background:url('/assets/pages/img/icon/ico_A006_1_3.png') center center no-repeat;}
+.ico.A006_1_4{background:url('/assets/pages/img/icon/ico_A006_1_4.png') center center no-repeat;}
+.ico.A006_1_5{background:url('/assets/pages/img/icon/ico_A006_1_5.png') center center no-repeat;}
+
+.ico.A006_2_2{background:url('/assets/pages/img/icon/ico_A006_2_2.png') center center no-repeat;}
+.ico.A006_2_3{background:url('/assets/pages/img/icon/ico_A006_2_3.png') center center no-repeat;}
+.ico.A006_2_4{background:url('/assets/pages/img/icon/ico_A006_2_4.png') center center no-repeat;}
+.ico.A006_2_5{background:url('/assets/pages/img/icon/ico_A006_2_5.png') center center no-repeat;}
+
+.ico.A008_1{background:url('/assets/pages/img/icon/ico_A008_1.png') center center no-repeat;}
+.ico.A008_2{background:url('/assets/pages/img/icon/ico_A008_2.png') center center no-repeat;}
+.ico.A008_3{background:url('/assets/pages/img/icon/ico_A008_3.png') center center no-repeat;}
+.ico.A008_4{background:url('/assets/pages/img/icon/ico_A008_4.png') center center no-repeat;}
+.ico.A008_5{background:url('/assets/pages/img/icon/ico_A008_5.png') center center no-repeat;}
+.ico.A008_6{background:url('/assets/pages/img/icon/ico_A008_6.png') center center no-repeat;}
+.ico.A008_7{background:url('/assets/pages/img/icon/ico_A008_7.png') center center no-repeat;}
+.ico.A008_8{background:url('/assets/pages/img/icon/ico_A008_3.png') center center no-repeat;}
+.ico.A008_9{background:url('/assets/pages/img/icon/ico_A008_9.png') center center no-repeat;}
+
+.ico.A009_1_1{background:url('/assets/pages/img/icon/ico_A009_1_1.png') center center no-repeat;}
+.ico.A009_1_2{background:url('/assets/pages/img/icon/ico_A009_1_2.png') center center no-repeat;}
+
+.ico.A021_1{background:url('/assets/pages/img/icon/ico_A021_1.png') center center no-repeat;}
+
+.ico.check_0{background:url('/assets/pages/img/icon/ico_check_0.png') center center no-repeat;}
+.ico.check_1{background:url('/assets/pages/img/icon/ico_check_1.png') center center no-repeat;}
+.ico.check_2{background:url('/assets/pages/img/icon/ico_check_2.png') center center no-repeat;}
+
+.ico.plus{background:url('/assets/pages/img/icon/ico_plus.png') center center no-repeat;}
+
+.page-content-wrapper .page-content{padding-bottom:100px;}
