@@ -480,14 +480,30 @@
 .kt-form1 .rule{
     font-size:13px;
 }
+.kt-form1 .rule2{
+    font-size:18px;
+    font-weight:bold;
+    border-bottom:2px solid #000;
+    padding:0 10px 5px 10px;
+}
+.kt-form1 .qr-code{
+    position:absolute;
+    top:0;
+    left:30px;
+    width:150px;
+    height:150px;
+    border:1px solid red;
+}
 .kt-form1 table{
     width:100%;
     table-layout: fixed;
     color:#000;
     font-size:15px;
 }
-.kt-form1 table thead th{
-
+.kt-form1 table thead .form-heading{
+    height:165px;
+    position:relative;
+    text-align:center;
 }
 .kt-form1 table thead th span{
     font-size:30px;
@@ -499,6 +515,23 @@
 .kt-form1 table tbody td{
     padding:10px;
     font-size:15px;
+}
+.kt-form1 table tbody td .form-type-choice{
+    overflow:hidden;
+}
+.kt-form1 table tbody td .form-type-choice .kt-radio-inline{
+    float:left;
+}
+.kt-form1 table tbody td .kt-radio-inline .kt-radio{
+    font-size:15px;
+}
+.kt-form1 table tbody td .kt-radio-inline .kt-radio span{
+    top:2px;
+}
+.kt-form1 table tbody td .form-type-choice em{
+    float:right;
+    font-size:15px;
+    font-style: normal;
 }
 .kt-form1 table tbody th{
     padding:5px;
@@ -539,7 +572,21 @@
 }
 .kt-form1 .form-input{
     display:block;
-
+}
+.kt-form1 .form-input.w50{
+    width:50px;
+}
+.kt-form1 .form-input.w60{
+    width:60px;
+}
+.kt-form1 .form-input.w80{
+    width:80px;
+}
+.kt-form1 .form-input.w100{
+    width:100px;
+}
+.kt-form1 .form-input.inline{
+    display:inline-block;
 }
 .kt-form1 .form-input.line{
     border-bottom:1px solid rgba(0, 0, 0, 0.09);
@@ -548,7 +595,23 @@
     width:100%;
     border:0;
     font-size:14px;
-    padding:5px 0;
+    padding:5px 10px;
+}
+.kt-form1 .two-inpus{
+    position: relative;
+    font-size:0;
+    overflow:hidden;
+}
+.kt-form1 .two-inpus .form-input{
+    display:inline-block;
+}
+.kt-form1 .two-inpus .form-input:first-child{
+    width:35%;
+    float:left;
+}
+.kt-form1 .two-inpus .form-input:last-child{
+    width:55%;
+    float:right;
 }
 .kt-form1 table tbody td.no-line{
     border:0;
@@ -1080,4 +1143,28 @@
 .show > .kt-sticky-toolbar > li > .btn-dark.dropdown-toggle{
     background:#8c7869;
     border-color:#50453d;
+}
+
+.kt-radio-check .kt-radio > span{
+    border-radius:0 !important;
+    font-size:15px;
+}
+.kt-radio-check .kt-radio > span:after {
+    content: '';
+    position: absolute;
+    display: none;
+    top: 50%;
+    left: 50%;
+    margin-left: -2px;
+    margin-top: -6px;
+    width: 5px;
+    height: 10px;
+    border-width: 0 2px 2px 0 /*rtl:ignore*/ !important;
+    -webkit-transform: rotate(45deg) /*rtl:ignore*/;
+    transform: rotate(45deg) /*rtl:ignore*/;
+    border-radius:0 !important;
+    background:none;
+}
+.kt-float-right{
+    float:right;
 }
