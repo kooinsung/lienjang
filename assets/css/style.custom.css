@@ -152,6 +152,24 @@
     margin-left:-5px;
     margin-right:-5px;
 }
+.in-row .kt-portlet{
+    -webkit-box-shadow: none !important;
+    box-shadow: none !important;
+    margin-bottom: 0 !important;
+}
+.in-row .kt-portlet .kt-portlet__head{
+    min-height: 0;
+    padding:0 5px 10px 5px !important;
+}
+.in-row .kt-portlet .kt-portlet__body{
+    padding:10px 5px 0 5px !important;
+}
+.in-row .kt-portlet .kt-portlet__foot{
+    padding: 10px 5px 0 5px !important;
+    border-top: 0 !important;
+    border-bottom-left-radius: 0 !important;
+    border-bottom-right-radius: 0 !important;
+}
 
 .kt-shadow-none{
     box-shadow:none;
@@ -1167,4 +1185,22 @@
 }
 .kt-float-right{
     float:right;
+}
+.kt-mms-image{
+    max-width:100%;
+}
+.btn-absolute{
+    position:absolute;
+    bottom:0;
+}
+.mms-lists{
+    overflow:hidden;
+    height:475px;
+    overflow-y:auto;
+}
+.sms-texts{
+    height:150px;
+}
+.form-height-none{
+    height:auto !important;
 }
