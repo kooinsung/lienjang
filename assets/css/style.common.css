@@ -1,5 +1,5 @@
 .scroll-to-top{bottom:2px;}
-.color_label{display:inline-block;vertical-align:top;color:#fff;font-style:normal;font-size:11px;padding:0 3px;height:19px;line-height:18px;letter-spacing: -1px;margin-right:3px;margin-bottom:5px;box-sizing: border-box;}
+.color_label{display:inline-block;vertical-align:top;color:#fff;font-style:normal;font-size:11px;padding:0 3px;height:19px;line-height:18px;letter-spacing: -1px;margin-right:3px;box-sizing: border-box;}
 .color_label.A010_1{background:#90ee90;}
 .color_label.A010_2{background:#87cefa;}
 .color_label.A010_3{background:#ff5f46;}
@@ -94,3 +94,87 @@
 .ico.plus{background:url('/assets/pages/img/icon/ico_plus.png') center center no-repeat;}
 
 .page-content-wrapper .page-content{padding-bottom:100px;}
+
+.month_tbs table tbody td{height:100px !important;text-align:right;}
+.month_tbs table thead th:first-child{}
+.month_tbs table thead th:last-child{}
+.month_tbs table tbody td{background:#fff;}
+.month_tbs table tbody td.today{position:relative;}
+.month_tbs table tbody td.today:before{
+    content:'';
+    position:absolute;
+    top:0;
+    left:0;
+    right:0;
+    bottom:0;
+    border:1px solid #000;
+}
+.month_tbs table tbody td.holiday{color:#f00;}
+.month_tbs table tbody td:first-child{color: #f00;}
+.month_tbs table tbody td:last-child{}
+
+.month_tbs table tbody td #planHead:hover{background:rgba(140,120,105,.5);cursor: pointer;}
+
+.table-advance thead tr th {
+    background-color: #fbfbfb;
+    font-size: 13px;
+    font-weight: 400;
+    color: #3f444a;
+    text-align: center !important;
+
+}
+.table>tbody>tr>td, .table>tbody>tr>th, .table>tfoot>tr>td, .table>tfoot>tr>th, .table>thead>tr>td, .table>thead>tr>th {
+    padding: 8px;
+    line-height: 1.42857;
+    vertical-align: top !important;
+    border-top: 1px solid #e7ecf1;
+}
+
+.print {background:#fff;font-family: 'Nanum Myeongjo'; width: 1000px; font-size: 14px; color:#615a52; border:1px solid #615a52; border-bottom: 0px; margin:0 auto; }
+.print .title { padding:20px 20px 5px 20px; font-size: 30px; text-align: center; border-bottom: 1px solid #615a52; }
+.print .info { font-size: 16px; text-align: left; margin-top: 50px;  }
+.print .section { overflow: hidden; border-top: 1px solid #615a52; }
+.print .alert { padding: 10px; border-top: 1px solid #615a52; border-bottom: 1px solid #615a52; }
+.print table { width: 100%; border-spacing: 0px; border-collapse: 0px; }
+.print th { font-weight: normal; text-align: center; padding:0px 5px; border-right:1px solid #615a52; border-bottom:1px solid #615a52; }
+.print td { text-align: center; padding:0px 5px; border-right:1px solid #615a52; border-bottom:1px solid #615a52; }
+.print td.patient { position: relative; letter-spacing: 5px; }
+.print td.patient span.guide { position: absolute; right: 5px; bottom:5px; }
+
+.print .one td { height: 48px; }
+.print .section .one td.patient { border-right: 0px; }
+.print .section .two td { height: 36px; border-right: 0px; border-left: 1px solid #615a52; }
+.print .section .three td { height: 40px; }
+.print .section .three td.last { border-right: 0px; }
+.print .section .three td span.name { font-size: 20px; }
+.print .section .four th { height: 60px; }
+.print .section .four th.last { border-right: 0px; }
+.print .section .four td { height: 35px; }
+.print .section .four td.left { padding-left: 20px; text-align: left; }
+.print .section .four td.last { border-right: 0px; }
+.print .section .five th { height: 50px; }
+.print .section .five td { height: 40px; }
+.print .section .five th.last { border-right: 0px; }
+.print .section .five td.last { border-right: 0px; }
+
+.print .one { float: left; width: 50%; }
+.print .two { float: left; width: 50%; }
+.print .three { width: 100%; }
+.print .four { width: 100%; }
+.print .five { width: 100%; }
+
+
+.print .recordTitle{ padding:20px 20px 5px 20px; font-size: 30px; text-align: left; border-bottom: 2px solid #615a52;}
+.print .recordInfo { font-size: 16px; text-align: right; margin-top: 50px;  }
+
+.print .recordSection { width: 100%; }
+.print .recordSection td { height: 48px; }
+.print .recordSection th { height: 40px; }
+.print .recordSection th.recordlast { border-right: 0px; }
+.print .recordSection td.recordpatient { border-right: 0px; }
+.print .recordSection td.recordpatient { border-right: 0px; }
+.print .recordSection td.recordleft { padding-left: 20px; text-align: left; border-right: 0px; }
+
+.print .recordhead { width: 100%; border-bottom: 2px solid #615a52; }
+.print .recordSpace { height: 20px; border-top: 1px solid #615a52; border-bottom: 1px solid #615a52; }
+.print .recordContent { width: 100%; }

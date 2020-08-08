@@ -538,8 +538,8 @@ pre code {
 .col-xl-auto {
     position: relative;
     width: 100%;
-    padding-right: 5px;
-    padding-left: 5px; }
+    padding-right: 4px;
+    padding-left: 4px; }
 
 .col {
     -ms-flex-preferred-size: 0;
@@ -9893,145 +9893,145 @@ button.btn {
     -webkit-transform: translate(0, -4px);
     transform: translate(0, -4px); }
 
-.btn.btn-brand.btn-elevate {
-    -webkit-box-shadow: 0px 4px 16px 0px rgba(93, 120, 255, 0.15);
-    box-shadow: 0px 4px 16px 0px rgba(93, 120, 255, 0.15); }
-.show > .btn.btn-brand.btn-elevate, .btn.btn-brand.btn-elevate:focus, .btn.btn-brand.btn-elevate.active, .btn.btn-brand.btn-elevate:active, .btn.btn-brand.btn-elevate:hover {
-    -webkit-box-shadow: 0px 9px 16px 0px rgba(93, 120, 255, 0.25) !important;
-    box-shadow: 0px 9px 16px 0px rgba(93, 120, 255, 0.25) !important; }
-.show > .btn.btn-brand.btn-elevate.btn-sm, .btn-group-sm.show > .btn.btn-brand.btn-elevate, .btn.btn-brand.btn-elevate:focus.btn-sm, .btn-group-sm > .btn.btn-brand.btn-elevate:focus, .btn.btn-brand.btn-elevate.active.btn-sm, .btn-group-sm > .btn.btn-brand.btn-elevate.active, .btn.btn-brand.btn-elevate:active.btn-sm, .btn-group-sm > .btn.btn-brand.btn-elevate:active, .btn.btn-brand.btn-elevate:hover.btn-sm, .btn-group-sm > .btn.btn-brand.btn-elevate:hover {
-    -webkit-box-shadow: 0px 6px 16px 0px rgba(93, 120, 255, 0.25) !important;
-    box-shadow: 0px 6px 16px 0px rgba(93, 120, 255, 0.25) !important; }
+/*.btn.btn-brand.btn-elevate {*/
+/*    -webkit-box-shadow: 0px 4px 16px 0px rgba(93, 120, 255, 0.15);*/
+/*    box-shadow: 0px 4px 16px 0px rgba(93, 120, 255, 0.15); }*/
+/*.show > .btn.btn-brand.btn-elevate, .btn.btn-brand.btn-elevate:focus, .btn.btn-brand.btn-elevate.active, .btn.btn-brand.btn-elevate:active, .btn.btn-brand.btn-elevate:hover {*/
+/*    -webkit-box-shadow: 0px 9px 16px 0px rgba(93, 120, 255, 0.25) !important;*/
+/*    box-shadow: 0px 9px 16px 0px rgba(93, 120, 255, 0.25) !important; }*/
+/*.show > .btn.btn-brand.btn-elevate.btn-sm, .btn-group-sm.show > .btn.btn-brand.btn-elevate, .btn.btn-brand.btn-elevate:focus.btn-sm, .btn-group-sm > .btn.btn-brand.btn-elevate:focus, .btn.btn-brand.btn-elevate.active.btn-sm, .btn-group-sm > .btn.btn-brand.btn-elevate.active, .btn.btn-brand.btn-elevate:active.btn-sm, .btn-group-sm > .btn.btn-brand.btn-elevate:active, .btn.btn-brand.btn-elevate:hover.btn-sm, .btn-group-sm > .btn.btn-brand.btn-elevate:hover {*/
+/*    -webkit-box-shadow: 0px 6px 16px 0px rgba(93, 120, 255, 0.25) !important;*/
+/*    box-shadow: 0px 6px 16px 0px rgba(93, 120, 255, 0.25) !important; }*/
 
-.show > .btn.btn-brand.btn-elevate-hover, .btn.btn-brand.btn-elevate-hover.active, .btn.btn-brand.btn-elevate-hover:focus, .btn.btn-brand.btn-elevate-hover:active, .btn.btn-brand.btn-elevate-hover:hover {
-    -webkit-box-shadow: 0px 9px 16px 0px rgba(93, 120, 255, 0.25) !important;
-    box-shadow: 0px 9px 16px 0px rgba(93, 120, 255, 0.25) !important; }
-.show > .btn.btn-brand.btn-elevate-hover.btn-sm, .btn-group-sm.show > .btn.btn-brand.btn-elevate-hover, .btn.btn-brand.btn-elevate-hover.active.btn-sm, .btn-group-sm > .btn.btn-brand.btn-elevate-hover.active, .btn.btn-brand.btn-elevate-hover:focus.btn-sm, .btn-group-sm > .btn.btn-brand.btn-elevate-hover:focus, .btn.btn-brand.btn-elevate-hover:active.btn-sm, .btn-group-sm > .btn.btn-brand.btn-elevate-hover:active, .btn.btn-brand.btn-elevate-hover:hover.btn-sm, .btn-group-sm > .btn.btn-brand.btn-elevate-hover:hover {
-    -webkit-box-shadow: 0px 6px 16px 0px rgba(93, 120, 255, 0.25) !important;
-    box-shadow: 0px 6px 16px 0px rgba(93, 120, 255, 0.25) !important; }
+/*.show > .btn.btn-brand.btn-elevate-hover, .btn.btn-brand.btn-elevate-hover.active, .btn.btn-brand.btn-elevate-hover:focus, .btn.btn-brand.btn-elevate-hover:active, .btn.btn-brand.btn-elevate-hover:hover {*/
+/*    -webkit-box-shadow: 0px 9px 16px 0px rgba(93, 120, 255, 0.25) !important;*/
+/*    box-shadow: 0px 9px 16px 0px rgba(93, 120, 255, 0.25) !important; }*/
+/*.show > .btn.btn-brand.btn-elevate-hover.btn-sm, .btn-group-sm.show > .btn.btn-brand.btn-elevate-hover, .btn.btn-brand.btn-elevate-hover.active.btn-sm, .btn-group-sm > .btn.btn-brand.btn-elevate-hover.active, .btn.btn-brand.btn-elevate-hover:focus.btn-sm, .btn-group-sm > .btn.btn-brand.btn-elevate-hover:focus, .btn.btn-brand.btn-elevate-hover:active.btn-sm, .btn-group-sm > .btn.btn-brand.btn-elevate-hover:active, .btn.btn-brand.btn-elevate-hover:hover.btn-sm, .btn-group-sm > .btn.btn-brand.btn-elevate-hover:hover {*/
+/*    -webkit-box-shadow: 0px 6px 16px 0px rgba(93, 120, 255, 0.25) !important;*/
+/*    box-shadow: 0px 6px 16px 0px rgba(93, 120, 255, 0.25) !important; }*/
 
-.btn.btn-light.btn-elevate {
-    -webkit-box-shadow: 0px 4px 16px 0px rgba(153, 153, 153, 0.15);
-    box-shadow: 0px 4px 16px 0px rgba(153, 153, 153, 0.15); }
-.show > .btn.btn-light.btn-elevate, .btn.btn-light.btn-elevate:focus, .btn.btn-light.btn-elevate.active, .btn.btn-light.btn-elevate:active, .btn.btn-light.btn-elevate:hover {
-    -webkit-box-shadow: 0px 9px 16px 0px rgba(153, 153, 153, 0.25) !important;
-    box-shadow: 0px 9px 16px 0px rgba(153, 153, 153, 0.25) !important;
-    background-color: transparent;
-    border-color: transparent; }
-.show > .btn.btn-light.btn-elevate.btn-sm, .btn-group-sm.show > .btn.btn-light.btn-elevate, .btn.btn-light.btn-elevate:focus.btn-sm, .btn-group-sm > .btn.btn-light.btn-elevate:focus, .btn.btn-light.btn-elevate.active.btn-sm, .btn-group-sm > .btn.btn-light.btn-elevate.active, .btn.btn-light.btn-elevate:active.btn-sm, .btn-group-sm > .btn.btn-light.btn-elevate:active, .btn.btn-light.btn-elevate:hover.btn-sm, .btn-group-sm > .btn.btn-light.btn-elevate:hover {
-    -webkit-box-shadow: 0px 6px 16px 0px rgba(153, 153, 153, 0.25) !important;
-    box-shadow: 0px 6px 16px 0px rgba(153, 153, 153, 0.25) !important; }
+/*.btn.btn-light.btn-elevate {*/
+/*    -webkit-box-shadow: 0px 4px 16px 0px rgba(153, 153, 153, 0.15);*/
+/*    box-shadow: 0px 4px 16px 0px rgba(153, 153, 153, 0.15); }*/
+/*.show > .btn.btn-light.btn-elevate, .btn.btn-light.btn-elevate:focus, .btn.btn-light.btn-elevate.active, .btn.btn-light.btn-elevate:active, .btn.btn-light.btn-elevate:hover {*/
+/*    -webkit-box-shadow: 0px 9px 16px 0px rgba(153, 153, 153, 0.25) !important;*/
+/*    box-shadow: 0px 9px 16px 0px rgba(153, 153, 153, 0.25) !important;*/
+/*    background-color: transparent;*/
+/*    border-color: transparent; }*/
+/*.show > .btn.btn-light.btn-elevate.btn-sm, .btn-group-sm.show > .btn.btn-light.btn-elevate, .btn.btn-light.btn-elevate:focus.btn-sm, .btn-group-sm > .btn.btn-light.btn-elevate:focus, .btn.btn-light.btn-elevate.active.btn-sm, .btn-group-sm > .btn.btn-light.btn-elevate.active, .btn.btn-light.btn-elevate:active.btn-sm, .btn-group-sm > .btn.btn-light.btn-elevate:active, .btn.btn-light.btn-elevate:hover.btn-sm, .btn-group-sm > .btn.btn-light.btn-elevate:hover {*/
+/*    -webkit-box-shadow: 0px 6px 16px 0px rgba(153, 153, 153, 0.25) !important;*/
+/*    box-shadow: 0px 6px 16px 0px rgba(153, 153, 153, 0.25) !important; }*/
 
-.show > .btn.btn-light.btn-elevate-hover, .btn.btn-light.btn-elevate-hover.active, .btn.btn-light.btn-elevate-hover:focus, .btn.btn-light.btn-elevate-hover:active, .btn.btn-light.btn-elevate-hover:hover {
-    -webkit-box-shadow: 0px 9px 16px 0px rgba(153, 153, 153, 0.25) !important;
-    box-shadow: 0px 9px 16px 0px rgba(153, 153, 153, 0.25) !important;
-    background-color: transparent;
-    border-color: transparent; }
-.show > .btn.btn-light.btn-elevate-hover.btn-sm, .btn-group-sm.show > .btn.btn-light.btn-elevate-hover, .btn.btn-light.btn-elevate-hover.active.btn-sm, .btn-group-sm > .btn.btn-light.btn-elevate-hover.active, .btn.btn-light.btn-elevate-hover:focus.btn-sm, .btn-group-sm > .btn.btn-light.btn-elevate-hover:focus, .btn.btn-light.btn-elevate-hover:active.btn-sm, .btn-group-sm > .btn.btn-light.btn-elevate-hover:active, .btn.btn-light.btn-elevate-hover:hover.btn-sm, .btn-group-sm > .btn.btn-light.btn-elevate-hover:hover {
-    -webkit-box-shadow: 0px 6px 16px 0px rgba(153, 153, 153, 0.25) !important;
-    box-shadow: 0px 6px 16px 0px rgba(153, 153, 153, 0.25) !important; }
+/*.show > .btn.btn-light.btn-elevate-hover, .btn.btn-light.btn-elevate-hover.active, .btn.btn-light.btn-elevate-hover:focus, .btn.btn-light.btn-elevate-hover:active, .btn.btn-light.btn-elevate-hover:hover {*/
+/*    -webkit-box-shadow: 0px 9px 16px 0px rgba(153, 153, 153, 0.25) !important;*/
+/*    box-shadow: 0px 9px 16px 0px rgba(153, 153, 153, 0.25) !important;*/
+/*    background-color: transparent;*/
+/*    border-color: transparent; }*/
+/*.show > .btn.btn-light.btn-elevate-hover.btn-sm, .btn-group-sm.show > .btn.btn-light.btn-elevate-hover, .btn.btn-light.btn-elevate-hover.active.btn-sm, .btn-group-sm > .btn.btn-light.btn-elevate-hover.active, .btn.btn-light.btn-elevate-hover:focus.btn-sm, .btn-group-sm > .btn.btn-light.btn-elevate-hover:focus, .btn.btn-light.btn-elevate-hover:active.btn-sm, .btn-group-sm > .btn.btn-light.btn-elevate-hover:active, .btn.btn-light.btn-elevate-hover:hover.btn-sm, .btn-group-sm > .btn.btn-light.btn-elevate-hover:hover {*/
+/*    -webkit-box-shadow: 0px 6px 16px 0px rgba(153, 153, 153, 0.25) !important;*/
+/*    box-shadow: 0px 6px 16px 0px rgba(153, 153, 153, 0.25) !important; }*/
 
-.btn.btn-dark.btn-elevate {
-    -webkit-box-shadow: 0px 4px 16px 0px rgba(40, 42, 60, 0.15);
-    box-shadow: 0px 4px 16px 0px rgba(40, 42, 60, 0.15); }
-.show > .btn.btn-dark.btn-elevate, .btn.btn-dark.btn-elevate:focus, .btn.btn-dark.btn-elevate.active, .btn.btn-dark.btn-elevate:active, .btn.btn-dark.btn-elevate:hover {
-    -webkit-box-shadow: 0px 9px 16px 0px rgba(40, 42, 60, 0.25) !important;
-    box-shadow: 0px 9px 16px 0px rgba(40, 42, 60, 0.25) !important; }
-.show > .btn.btn-dark.btn-elevate.btn-sm, .btn-group-sm.show > .btn.btn-dark.btn-elevate, .btn.btn-dark.btn-elevate:focus.btn-sm, .btn-group-sm > .btn.btn-dark.btn-elevate:focus, .btn.btn-dark.btn-elevate.active.btn-sm, .btn-group-sm > .btn.btn-dark.btn-elevate.active, .btn.btn-dark.btn-elevate:active.btn-sm, .btn-group-sm > .btn.btn-dark.btn-elevate:active, .btn.btn-dark.btn-elevate:hover.btn-sm, .btn-group-sm > .btn.btn-dark.btn-elevate:hover {
-    -webkit-box-shadow: 0px 6px 16px 0px rgba(40, 42, 60, 0.25) !important;
-    box-shadow: 0px 6px 16px 0px rgba(40, 42, 60, 0.25) !important; }
+/*.btn.btn-dark.btn-elevate {*/
+/*    -webkit-box-shadow: 0px 4px 16px 0px rgba(40, 42, 60, 0.15);*/
+/*    box-shadow: 0px 4px 16px 0px rgba(40, 42, 60, 0.15); }*/
+/*.show > .btn.btn-dark.btn-elevate, .btn.btn-dark.btn-elevate:focus, .btn.btn-dark.btn-elevate.active, .btn.btn-dark.btn-elevate:active, .btn.btn-dark.btn-elevate:hover {*/
+/*    -webkit-box-shadow: 0px 9px 16px 0px rgba(40, 42, 60, 0.25) !important;*/
+/*    box-shadow: 0px 9px 16px 0px rgba(40, 42, 60, 0.25) !important; }*/
+/*.show > .btn.btn-dark.btn-elevate.btn-sm, .btn-group-sm.show > .btn.btn-dark.btn-elevate, .btn.btn-dark.btn-elevate:focus.btn-sm, .btn-group-sm > .btn.btn-dark.btn-elevate:focus, .btn.btn-dark.btn-elevate.active.btn-sm, .btn-group-sm > .btn.btn-dark.btn-elevate.active, .btn.btn-dark.btn-elevate:active.btn-sm, .btn-group-sm > .btn.btn-dark.btn-elevate:active, .btn.btn-dark.btn-elevate:hover.btn-sm, .btn-group-sm > .btn.btn-dark.btn-elevate:hover {*/
+/*    -webkit-box-shadow: 0px 6px 16px 0px rgba(40, 42, 60, 0.25) !important;*/
+/*    box-shadow: 0px 6px 16px 0px rgba(40, 42, 60, 0.25) !important; }*/
 
-.show > .btn.btn-dark.btn-elevate-hover, .btn.btn-dark.btn-elevate-hover.active, .btn.btn-dark.btn-elevate-hover:focus, .btn.btn-dark.btn-elevate-hover:active, .btn.btn-dark.btn-elevate-hover:hover {
-    -webkit-box-shadow: 0px 9px 16px 0px rgba(40, 42, 60, 0.25) !important;
-    box-shadow: 0px 9px 16px 0px rgba(40, 42, 60, 0.25) !important; }
-.show > .btn.btn-dark.btn-elevate-hover.btn-sm, .btn-group-sm.show > .btn.btn-dark.btn-elevate-hover, .btn.btn-dark.btn-elevate-hover.active.btn-sm, .btn-group-sm > .btn.btn-dark.btn-elevate-hover.active, .btn.btn-dark.btn-elevate-hover:focus.btn-sm, .btn-group-sm > .btn.btn-dark.btn-elevate-hover:focus, .btn.btn-dark.btn-elevate-hover:active.btn-sm, .btn-group-sm > .btn.btn-dark.btn-elevate-hover:active, .btn.btn-dark.btn-elevate-hover:hover.btn-sm, .btn-group-sm > .btn.btn-dark.btn-elevate-hover:hover {
-    -webkit-box-shadow: 0px 6px 16px 0px rgba(40, 42, 60, 0.25) !important;
-    box-shadow: 0px 6px 16px 0px rgba(40, 42, 60, 0.25) !important; }
+/*.show > .btn.btn-dark.btn-elevate-hover, .btn.btn-dark.btn-elevate-hover.active, .btn.btn-dark.btn-elevate-hover:focus, .btn.btn-dark.btn-elevate-hover:active, .btn.btn-dark.btn-elevate-hover:hover {*/
+/*    -webkit-box-shadow: 0px 9px 16px 0px rgba(40, 42, 60, 0.25) !important;*/
+/*    box-shadow: 0px 9px 16px 0px rgba(40, 42, 60, 0.25) !important; }*/
+/*.show > .btn.btn-dark.btn-elevate-hover.btn-sm, .btn-group-sm.show > .btn.btn-dark.btn-elevate-hover, .btn.btn-dark.btn-elevate-hover.active.btn-sm, .btn-group-sm > .btn.btn-dark.btn-elevate-hover.active, .btn.btn-dark.btn-elevate-hover:focus.btn-sm, .btn-group-sm > .btn.btn-dark.btn-elevate-hover:focus, .btn.btn-dark.btn-elevate-hover:active.btn-sm, .btn-group-sm > .btn.btn-dark.btn-elevate-hover:active, .btn.btn-dark.btn-elevate-hover:hover.btn-sm, .btn-group-sm > .btn.btn-dark.btn-elevate-hover:hover {*/
+/*    -webkit-box-shadow: 0px 6px 16px 0px rgba(40, 42, 60, 0.25) !important;*/
+/*    box-shadow: 0px 6px 16px 0px rgba(40, 42, 60, 0.25) !important; }*/
 
-.btn.btn-primary.btn-elevate {
-    -webkit-box-shadow: 0px 4px 16px 0px rgba(88, 103, 221, 0.15);
-    box-shadow: 0px 4px 16px 0px rgba(88, 103, 221, 0.15); }
-.show > .btn.btn-primary.btn-elevate, .btn.btn-primary.btn-elevate:focus, .btn.btn-primary.btn-elevate.active, .btn.btn-primary.btn-elevate:active, .btn.btn-primary.btn-elevate:hover {
-    -webkit-box-shadow: 0px 9px 16px 0px rgba(88, 103, 221, 0.25) !important;
-    box-shadow: 0px 9px 16px 0px rgba(88, 103, 221, 0.25) !important; }
-.show > .btn.btn-primary.btn-elevate.btn-sm, .btn-group-sm.show > .btn.btn-primary.btn-elevate, .btn.btn-primary.btn-elevate:focus.btn-sm, .btn-group-sm > .btn.btn-primary.btn-elevate:focus, .btn.btn-primary.btn-elevate.active.btn-sm, .btn-group-sm > .btn.btn-primary.btn-elevate.active, .btn.btn-primary.btn-elevate:active.btn-sm, .btn-group-sm > .btn.btn-primary.btn-elevate:active, .btn.btn-primary.btn-elevate:hover.btn-sm, .btn-group-sm > .btn.btn-primary.btn-elevate:hover {
-    -webkit-box-shadow: 0px 6px 16px 0px rgba(88, 103, 221, 0.25) !important;
-    box-shadow: 0px 6px 16px 0px rgba(88, 103, 221, 0.25) !important; }
+/*.btn.btn-primary.btn-elevate {*/
+/*    -webkit-box-shadow: 0px 4px 16px 0px rgba(88, 103, 221, 0.15);*/
+/*    box-shadow: 0px 4px 16px 0px rgba(88, 103, 221, 0.15); }*/
+/*.show > .btn.btn-primary.btn-elevate, .btn.btn-primary.btn-elevate:focus, .btn.btn-primary.btn-elevate.active, .btn.btn-primary.btn-elevate:active, .btn.btn-primary.btn-elevate:hover {*/
+/*    -webkit-box-shadow: 0px 9px 16px 0px rgba(88, 103, 221, 0.25) !important;*/
+/*    box-shadow: 0px 9px 16px 0px rgba(88, 103, 221, 0.25) !important; }*/
+/*.show > .btn.btn-primary.btn-elevate.btn-sm, .btn-group-sm.show > .btn.btn-primary.btn-elevate, .btn.btn-primary.btn-elevate:focus.btn-sm, .btn-group-sm > .btn.btn-primary.btn-elevate:focus, .btn.btn-primary.btn-elevate.active.btn-sm, .btn-group-sm > .btn.btn-primary.btn-elevate.active, .btn.btn-primary.btn-elevate:active.btn-sm, .btn-group-sm > .btn.btn-primary.btn-elevate:active, .btn.btn-primary.btn-elevate:hover.btn-sm, .btn-group-sm > .btn.btn-primary.btn-elevate:hover {*/
+/*    -webkit-box-shadow: 0px 6px 16px 0px rgba(88, 103, 221, 0.25) !important;*/
+/*    box-shadow: 0px 6px 16px 0px rgba(88, 103, 221, 0.25) !important; }*/
 
-.show > .btn.btn-primary.btn-elevate-hover, .btn.btn-primary.btn-elevate-hover.active, .btn.btn-primary.btn-elevate-hover:focus, .btn.btn-primary.btn-elevate-hover:active, .btn.btn-primary.btn-elevate-hover:hover {
-    -webkit-box-shadow: 0px 9px 16px 0px rgba(88, 103, 221, 0.25) !important;
-    box-shadow: 0px 9px 16px 0px rgba(88, 103, 221, 0.25) !important; }
-.show > .btn.btn-primary.btn-elevate-hover.btn-sm, .btn-group-sm.show > .btn.btn-primary.btn-elevate-hover, .btn.btn-primary.btn-elevate-hover.active.btn-sm, .btn-group-sm > .btn.btn-primary.btn-elevate-hover.active, .btn.btn-primary.btn-elevate-hover:focus.btn-sm, .btn-group-sm > .btn.btn-primary.btn-elevate-hover:focus, .btn.btn-primary.btn-elevate-hover:active.btn-sm, .btn-group-sm > .btn.btn-primary.btn-elevate-hover:active, .btn.btn-primary.btn-elevate-hover:hover.btn-sm, .btn-group-sm > .btn.btn-primary.btn-elevate-hover:hover {
-    -webkit-box-shadow: 0px 6px 16px 0px rgba(88, 103, 221, 0.25) !important;
-    box-shadow: 0px 6px 16px 0px rgba(88, 103, 221, 0.25) !important; }
+/*.show > .btn.btn-primary.btn-elevate-hover, .btn.btn-primary.btn-elevate-hover.active, .btn.btn-primary.btn-elevate-hover:focus, .btn.btn-primary.btn-elevate-hover:active, .btn.btn-primary.btn-elevate-hover:hover {*/
+/*    -webkit-box-shadow: 0px 9px 16px 0px rgba(88, 103, 221, 0.25) !important;*/
+/*    box-shadow: 0px 9px 16px 0px rgba(88, 103, 221, 0.25) !important; }*/
+/*.show > .btn.btn-primary.btn-elevate-hover.btn-sm, .btn-group-sm.show > .btn.btn-primary.btn-elevate-hover, .btn.btn-primary.btn-elevate-hover.active.btn-sm, .btn-group-sm > .btn.btn-primary.btn-elevate-hover.active, .btn.btn-primary.btn-elevate-hover:focus.btn-sm, .btn-group-sm > .btn.btn-primary.btn-elevate-hover:focus, .btn.btn-primary.btn-elevate-hover:active.btn-sm, .btn-group-sm > .btn.btn-primary.btn-elevate-hover:active, .btn.btn-primary.btn-elevate-hover:hover.btn-sm, .btn-group-sm > .btn.btn-primary.btn-elevate-hover:hover {*/
+/*    -webkit-box-shadow: 0px 6px 16px 0px rgba(88, 103, 221, 0.25) !important;*/
+/*    box-shadow: 0px 6px 16px 0px rgba(88, 103, 221, 0.25) !important; }*/
 
-.btn.btn-success.btn-elevate {
-    -webkit-box-shadow: 0px 4px 16px 0px rgba(10, 187, 135, 0.15);
-    box-shadow: 0px 4px 16px 0px rgba(10, 187, 135, 0.15); }
-.show > .btn.btn-success.btn-elevate, .btn.btn-success.btn-elevate:focus, .btn.btn-success.btn-elevate.active, .btn.btn-success.btn-elevate:active, .btn.btn-success.btn-elevate:hover {
-    -webkit-box-shadow: 0px 9px 16px 0px rgba(10, 187, 135, 0.25) !important;
-    box-shadow: 0px 9px 16px 0px rgba(10, 187, 135, 0.25) !important; }
-.show > .btn.btn-success.btn-elevate.btn-sm, .btn-group-sm.show > .btn.btn-success.btn-elevate, .btn.btn-success.btn-elevate:focus.btn-sm, .btn-group-sm > .btn.btn-success.btn-elevate:focus, .btn.btn-success.btn-elevate.active.btn-sm, .btn-group-sm > .btn.btn-success.btn-elevate.active, .btn.btn-success.btn-elevate:active.btn-sm, .btn-group-sm > .btn.btn-success.btn-elevate:active, .btn.btn-success.btn-elevate:hover.btn-sm, .btn-group-sm > .btn.btn-success.btn-elevate:hover {
-    -webkit-box-shadow: 0px 6px 16px 0px rgba(10, 187, 135, 0.25) !important;
-    box-shadow: 0px 6px 16px 0px rgba(10, 187, 135, 0.25) !important; }
+/*.btn.btn-success.btn-elevate {*/
+/*    -webkit-box-shadow: 0px 4px 16px 0px rgba(10, 187, 135, 0.15);*/
+/*    box-shadow: 0px 4px 16px 0px rgba(10, 187, 135, 0.15); }*/
+/*.show > .btn.btn-success.btn-elevate, .btn.btn-success.btn-elevate:focus, .btn.btn-success.btn-elevate.active, .btn.btn-success.btn-elevate:active, .btn.btn-success.btn-elevate:hover {*/
+/*    -webkit-box-shadow: 0px 9px 16px 0px rgba(10, 187, 135, 0.25) !important;*/
+/*    box-shadow: 0px 9px 16px 0px rgba(10, 187, 135, 0.25) !important; }*/
+/*.show > .btn.btn-success.btn-elevate.btn-sm, .btn-group-sm.show > .btn.btn-success.btn-elevate, .btn.btn-success.btn-elevate:focus.btn-sm, .btn-group-sm > .btn.btn-success.btn-elevate:focus, .btn.btn-success.btn-elevate.active.btn-sm, .btn-group-sm > .btn.btn-success.btn-elevate.active, .btn.btn-success.btn-elevate:active.btn-sm, .btn-group-sm > .btn.btn-success.btn-elevate:active, .btn.btn-success.btn-elevate:hover.btn-sm, .btn-group-sm > .btn.btn-success.btn-elevate:hover {*/
+/*    -webkit-box-shadow: 0px 6px 16px 0px rgba(10, 187, 135, 0.25) !important;*/
+/*    box-shadow: 0px 6px 16px 0px rgba(10, 187, 135, 0.25) !important; }*/
 
-.show > .btn.btn-success.btn-elevate-hover, .btn.btn-success.btn-elevate-hover.active, .btn.btn-success.btn-elevate-hover:focus, .btn.btn-success.btn-elevate-hover:active, .btn.btn-success.btn-elevate-hover:hover {
-    -webkit-box-shadow: 0px 9px 16px 0px rgba(10, 187, 135, 0.25) !important;
-    box-shadow: 0px 9px 16px 0px rgba(10, 187, 135, 0.25) !important; }
-.show > .btn.btn-success.btn-elevate-hover.btn-sm, .btn-group-sm.show > .btn.btn-success.btn-elevate-hover, .btn.btn-success.btn-elevate-hover.active.btn-sm, .btn-group-sm > .btn.btn-success.btn-elevate-hover.active, .btn.btn-success.btn-elevate-hover:focus.btn-sm, .btn-group-sm > .btn.btn-success.btn-elevate-hover:focus, .btn.btn-success.btn-elevate-hover:active.btn-sm, .btn-group-sm > .btn.btn-success.btn-elevate-hover:active, .btn.btn-success.btn-elevate-hover:hover.btn-sm, .btn-group-sm > .btn.btn-success.btn-elevate-hover:hover {
-    -webkit-box-shadow: 0px 6px 16px 0px rgba(10, 187, 135, 0.25) !important;
-    box-shadow: 0px 6px 16px 0px rgba(10, 187, 135, 0.25) !important; }
+/*.show > .btn.btn-success.btn-elevate-hover, .btn.btn-success.btn-elevate-hover.active, .btn.btn-success.btn-elevate-hover:focus, .btn.btn-success.btn-elevate-hover:active, .btn.btn-success.btn-elevate-hover:hover {*/
+/*    -webkit-box-shadow: 0px 9px 16px 0px rgba(10, 187, 135, 0.25) !important;*/
+/*    box-shadow: 0px 9px 16px 0px rgba(10, 187, 135, 0.25) !important; }*/
+/*.show > .btn.btn-success.btn-elevate-hover.btn-sm, .btn-group-sm.show > .btn.btn-success.btn-elevate-hover, .btn.btn-success.btn-elevate-hover.active.btn-sm, .btn-group-sm > .btn.btn-success.btn-elevate-hover.active, .btn.btn-success.btn-elevate-hover:focus.btn-sm, .btn-group-sm > .btn.btn-success.btn-elevate-hover:focus, .btn.btn-success.btn-elevate-hover:active.btn-sm, .btn-group-sm > .btn.btn-success.btn-elevate-hover:active, .btn.btn-success.btn-elevate-hover:hover.btn-sm, .btn-group-sm > .btn.btn-success.btn-elevate-hover:hover {*/
+/*    -webkit-box-shadow: 0px 6px 16px 0px rgba(10, 187, 135, 0.25) !important;*/
+/*    box-shadow: 0px 6px 16px 0px rgba(10, 187, 135, 0.25) !important; }*/
 
-.btn.btn-info.btn-elevate {
-    -webkit-box-shadow: 0px 4px 16px 0px rgba(85, 120, 235, 0.15);
-    box-shadow: 0px 4px 16px 0px rgba(85, 120, 235, 0.15); }
-.show > .btn.btn-info.btn-elevate, .btn.btn-info.btn-elevate:focus, .btn.btn-info.btn-elevate.active, .btn.btn-info.btn-elevate:active, .btn.btn-info.btn-elevate:hover {
-    -webkit-box-shadow: 0px 9px 16px 0px rgba(85, 120, 235, 0.25) !important;
-    box-shadow: 0px 9px 16px 0px rgba(85, 120, 235, 0.25) !important; }
-.show > .btn.btn-info.btn-elevate.btn-sm, .btn-group-sm.show > .btn.btn-info.btn-elevate, .btn.btn-info.btn-elevate:focus.btn-sm, .btn-group-sm > .btn.btn-info.btn-elevate:focus, .btn.btn-info.btn-elevate.active.btn-sm, .btn-group-sm > .btn.btn-info.btn-elevate.active, .btn.btn-info.btn-elevate:active.btn-sm, .btn-group-sm > .btn.btn-info.btn-elevate:active, .btn.btn-info.btn-elevate:hover.btn-sm, .btn-group-sm > .btn.btn-info.btn-elevate:hover {
-    -webkit-box-shadow: 0px 6px 16px 0px rgba(85, 120, 235, 0.25) !important;
-    box-shadow: 0px 6px 16px 0px rgba(85, 120, 235, 0.25) !important; }
+/*.btn.btn-info.btn-elevate {*/
+/*    -webkit-box-shadow: 0px 4px 16px 0px rgba(85, 120, 235, 0.15);*/
+/*    box-shadow: 0px 4px 16px 0px rgba(85, 120, 235, 0.15); }*/
+/*.show > .btn.btn-info.btn-elevate, .btn.btn-info.btn-elevate:focus, .btn.btn-info.btn-elevate.active, .btn.btn-info.btn-elevate:active, .btn.btn-info.btn-elevate:hover {*/
+/*    -webkit-box-shadow: 0px 9px 16px 0px rgba(85, 120, 235, 0.25) !important;*/
+/*    box-shadow: 0px 9px 16px 0px rgba(85, 120, 235, 0.25) !important; }*/
+/*.show > .btn.btn-info.btn-elevate.btn-sm, .btn-group-sm.show > .btn.btn-info.btn-elevate, .btn.btn-info.btn-elevate:focus.btn-sm, .btn-group-sm > .btn.btn-info.btn-elevate:focus, .btn.btn-info.btn-elevate.active.btn-sm, .btn-group-sm > .btn.btn-info.btn-elevate.active, .btn.btn-info.btn-elevate:active.btn-sm, .btn-group-sm > .btn.btn-info.btn-elevate:active, .btn.btn-info.btn-elevate:hover.btn-sm, .btn-group-sm > .btn.btn-info.btn-elevate:hover {*/
+/*    -webkit-box-shadow: 0px 6px 16px 0px rgba(85, 120, 235, 0.25) !important;*/
+/*    box-shadow: 0px 6px 16px 0px rgba(85, 120, 235, 0.25) !important; }*/
 
-.show > .btn.btn-info.btn-elevate-hover, .btn.btn-info.btn-elevate-hover.active, .btn.btn-info.btn-elevate-hover:focus, .btn.btn-info.btn-elevate-hover:active, .btn.btn-info.btn-elevate-hover:hover {
-    -webkit-box-shadow: 0px 9px 16px 0px rgba(85, 120, 235, 0.25) !important;
-    box-shadow: 0px 9px 16px 0px rgba(85, 120, 235, 0.25) !important; }
-.show > .btn.btn-info.btn-elevate-hover.btn-sm, .btn-group-sm.show > .btn.btn-info.btn-elevate-hover, .btn.btn-info.btn-elevate-hover.active.btn-sm, .btn-group-sm > .btn.btn-info.btn-elevate-hover.active, .btn.btn-info.btn-elevate-hover:focus.btn-sm, .btn-group-sm > .btn.btn-info.btn-elevate-hover:focus, .btn.btn-info.btn-elevate-hover:active.btn-sm, .btn-group-sm > .btn.btn-info.btn-elevate-hover:active, .btn.btn-info.btn-elevate-hover:hover.btn-sm, .btn-group-sm > .btn.btn-info.btn-elevate-hover:hover {
-    -webkit-box-shadow: 0px 6px 16px 0px rgba(85, 120, 235, 0.25) !important;
-    box-shadow: 0px 6px 16px 0px rgba(85, 120, 235, 0.25) !important; }
+/*.show > .btn.btn-info.btn-elevate-hover, .btn.btn-info.btn-elevate-hover.active, .btn.btn-info.btn-elevate-hover:focus, .btn.btn-info.btn-elevate-hover:active, .btn.btn-info.btn-elevate-hover:hover {*/
+/*    -webkit-box-shadow: 0px 9px 16px 0px rgba(85, 120, 235, 0.25) !important;*/
+/*    box-shadow: 0px 9px 16px 0px rgba(85, 120, 235, 0.25) !important; }*/
+/*.show > .btn.btn-info.btn-elevate-hover.btn-sm, .btn-group-sm.show > .btn.btn-info.btn-elevate-hover, .btn.btn-info.btn-elevate-hover.active.btn-sm, .btn-group-sm > .btn.btn-info.btn-elevate-hover.active, .btn.btn-info.btn-elevate-hover:focus.btn-sm, .btn-group-sm > .btn.btn-info.btn-elevate-hover:focus, .btn.btn-info.btn-elevate-hover:active.btn-sm, .btn-group-sm > .btn.btn-info.btn-elevate-hover:active, .btn.btn-info.btn-elevate-hover:hover.btn-sm, .btn-group-sm > .btn.btn-info.btn-elevate-hover:hover {*/
+/*    -webkit-box-shadow: 0px 6px 16px 0px rgba(85, 120, 235, 0.25) !important;*/
+/*    box-shadow: 0px 6px 16px 0px rgba(85, 120, 235, 0.25) !important; }*/
 
-.btn.btn-warning.btn-elevate {
-    -webkit-box-shadow: 0px 4px 16px 0px rgba(255, 184, 34, 0.15);
-    box-shadow: 0px 4px 16px 0px rgba(255, 184, 34, 0.15); }
-.show > .btn.btn-warning.btn-elevate, .btn.btn-warning.btn-elevate:focus, .btn.btn-warning.btn-elevate.active, .btn.btn-warning.btn-elevate:active, .btn.btn-warning.btn-elevate:hover {
-    -webkit-box-shadow: 0px 9px 16px 0px rgba(255, 184, 34, 0.25) !important;
-    box-shadow: 0px 9px 16px 0px rgba(255, 184, 34, 0.25) !important; }
-.show > .btn.btn-warning.btn-elevate.btn-sm, .btn-group-sm.show > .btn.btn-warning.btn-elevate, .btn.btn-warning.btn-elevate:focus.btn-sm, .btn-group-sm > .btn.btn-warning.btn-elevate:focus, .btn.btn-warning.btn-elevate.active.btn-sm, .btn-group-sm > .btn.btn-warning.btn-elevate.active, .btn.btn-warning.btn-elevate:active.btn-sm, .btn-group-sm > .btn.btn-warning.btn-elevate:active, .btn.btn-warning.btn-elevate:hover.btn-sm, .btn-group-sm > .btn.btn-warning.btn-elevate:hover {
-    -webkit-box-shadow: 0px 6px 16px 0px rgba(255, 184, 34, 0.25) !important;
-    box-shadow: 0px 6px 16px 0px rgba(255, 184, 34, 0.25) !important; }
+/*.btn.btn-warning.btn-elevate {*/
+/*    -webkit-box-shadow: 0px 4px 16px 0px rgba(255, 184, 34, 0.15);*/
+/*    box-shadow: 0px 4px 16px 0px rgba(255, 184, 34, 0.15); }*/
+/*.show > .btn.btn-warning.btn-elevate, .btn.btn-warning.btn-elevate:focus, .btn.btn-warning.btn-elevate.active, .btn.btn-warning.btn-elevate:active, .btn.btn-warning.btn-elevate:hover {*/
+/*    -webkit-box-shadow: 0px 9px 16px 0px rgba(255, 184, 34, 0.25) !important;*/
+/*    box-shadow: 0px 9px 16px 0px rgba(255, 184, 34, 0.25) !important; }*/
+/*.show > .btn.btn-warning.btn-elevate.btn-sm, .btn-group-sm.show > .btn.btn-warning.btn-elevate, .btn.btn-warning.btn-elevate:focus.btn-sm, .btn-group-sm > .btn.btn-warning.btn-elevate:focus, .btn.btn-warning.btn-elevate.active.btn-sm, .btn-group-sm > .btn.btn-warning.btn-elevate.active, .btn.btn-warning.btn-elevate:active.btn-sm, .btn-group-sm > .btn.btn-warning.btn-elevate:active, .btn.btn-warning.btn-elevate:hover.btn-sm, .btn-group-sm > .btn.btn-warning.btn-elevate:hover {*/
+/*    -webkit-box-shadow: 0px 6px 16px 0px rgba(255, 184, 34, 0.25) !important;*/
+/*    box-shadow: 0px 6px 16px 0px rgba(255, 184, 34, 0.25) !important; }*/
 
-.show > .btn.btn-warning.btn-elevate-hover, .btn.btn-warning.btn-elevate-hover.active, .btn.btn-warning.btn-elevate-hover:focus, .btn.btn-warning.btn-elevate-hover:active, .btn.btn-warning.btn-elevate-hover:hover {
-    -webkit-box-shadow: 0px 9px 16px 0px rgba(255, 184, 34, 0.25) !important;
-    box-shadow: 0px 9px 16px 0px rgba(255, 184, 34, 0.25) !important; }
-.show > .btn.btn-warning.btn-elevate-hover.btn-sm, .btn-group-sm.show > .btn.btn-warning.btn-elevate-hover, .btn.btn-warning.btn-elevate-hover.active.btn-sm, .btn-group-sm > .btn.btn-warning.btn-elevate-hover.active, .btn.btn-warning.btn-elevate-hover:focus.btn-sm, .btn-group-sm > .btn.btn-warning.btn-elevate-hover:focus, .btn.btn-warning.btn-elevate-hover:active.btn-sm, .btn-group-sm > .btn.btn-warning.btn-elevate-hover:active, .btn.btn-warning.btn-elevate-hover:hover.btn-sm, .btn-group-sm > .btn.btn-warning.btn-elevate-hover:hover {
-    -webkit-box-shadow: 0px 6px 16px 0px rgba(255, 184, 34, 0.25) !important;
-    box-shadow: 0px 6px 16px 0px rgba(255, 184, 34, 0.25) !important; }
+/*.show > .btn.btn-warning.btn-elevate-hover, .btn.btn-warning.btn-elevate-hover.active, .btn.btn-warning.btn-elevate-hover:focus, .btn.btn-warning.btn-elevate-hover:active, .btn.btn-warning.btn-elevate-hover:hover {*/
+/*    -webkit-box-shadow: 0px 9px 16px 0px rgba(255, 184, 34, 0.25) !important;*/
+/*    box-shadow: 0px 9px 16px 0px rgba(255, 184, 34, 0.25) !important; }*/
+/*.show > .btn.btn-warning.btn-elevate-hover.btn-sm, .btn-group-sm.show > .btn.btn-warning.btn-elevate-hover, .btn.btn-warning.btn-elevate-hover.active.btn-sm, .btn-group-sm > .btn.btn-warning.btn-elevate-hover.active, .btn.btn-warning.btn-elevate-hover:focus.btn-sm, .btn-group-sm > .btn.btn-warning.btn-elevate-hover:focus, .btn.btn-warning.btn-elevate-hover:active.btn-sm, .btn-group-sm > .btn.btn-warning.btn-elevate-hover:active, .btn.btn-warning.btn-elevate-hover:hover.btn-sm, .btn-group-sm > .btn.btn-warning.btn-elevate-hover:hover {*/
+/*    -webkit-box-shadow: 0px 6px 16px 0px rgba(255, 184, 34, 0.25) !important;*/
+/*    box-shadow: 0px 6px 16px 0px rgba(255, 184, 34, 0.25) !important; }*/
 
-.btn.btn-danger.btn-elevate {
-    -webkit-box-shadow: 0px 4px 16px 0px rgba(253, 57, 122, 0.15);
-    box-shadow: 0px 4px 16px 0px rgba(253, 57, 122, 0.15); }
-.show > .btn.btn-danger.btn-elevate, .btn.btn-danger.btn-elevate:focus, .btn.btn-danger.btn-elevate.active, .btn.btn-danger.btn-elevate:active, .btn.btn-danger.btn-elevate:hover {
-    -webkit-box-shadow: 0px 9px 16px 0px rgba(253, 57, 122, 0.25) !important;
-    box-shadow: 0px 9px 16px 0px rgba(253, 57, 122, 0.25) !important; }
-.show > .btn.btn-danger.btn-elevate.btn-sm, .btn-group-sm.show > .btn.btn-danger.btn-elevate, .btn.btn-danger.btn-elevate:focus.btn-sm, .btn-group-sm > .btn.btn-danger.btn-elevate:focus, .btn.btn-danger.btn-elevate.active.btn-sm, .btn-group-sm > .btn.btn-danger.btn-elevate.active, .btn.btn-danger.btn-elevate:active.btn-sm, .btn-group-sm > .btn.btn-danger.btn-elevate:active, .btn.btn-danger.btn-elevate:hover.btn-sm, .btn-group-sm > .btn.btn-danger.btn-elevate:hover {
-    -webkit-box-shadow: 0px 6px 16px 0px rgba(253, 57, 122, 0.25) !important;
-    box-shadow: 0px 6px 16px 0px rgba(253, 57, 122, 0.25) !important; }
+/*.btn.btn-danger.btn-elevate {*/
+/*    -webkit-box-shadow: 0px 4px 16px 0px rgba(253, 57, 122, 0.15);*/
+/*    box-shadow: 0px 4px 16px 0px rgba(253, 57, 122, 0.15); }*/
+/*.show > .btn.btn-danger.btn-elevate, .btn.btn-danger.btn-elevate:focus, .btn.btn-danger.btn-elevate.active, .btn.btn-danger.btn-elevate:active, .btn.btn-danger.btn-elevate:hover {*/
+/*    -webkit-box-shadow: 0px 9px 16px 0px rgba(253, 57, 122, 0.25) !important;*/
+/*    box-shadow: 0px 9px 16px 0px rgba(253, 57, 122, 0.25) !important; }*/
+/*.show > .btn.btn-danger.btn-elevate.btn-sm, .btn-group-sm.show > .btn.btn-danger.btn-elevate, .btn.btn-danger.btn-elevate:focus.btn-sm, .btn-group-sm > .btn.btn-danger.btn-elevate:focus, .btn.btn-danger.btn-elevate.active.btn-sm, .btn-group-sm > .btn.btn-danger.btn-elevate.active, .btn.btn-danger.btn-elevate:active.btn-sm, .btn-group-sm > .btn.btn-danger.btn-elevate:active, .btn.btn-danger.btn-elevate:hover.btn-sm, .btn-group-sm > .btn.btn-danger.btn-elevate:hover {*/
+/*    -webkit-box-shadow: 0px 6px 16px 0px rgba(253, 57, 122, 0.25) !important;*/
+/*    box-shadow: 0px 6px 16px 0px rgba(253, 57, 122, 0.25) !important; }*/
 
-.show > .btn.btn-danger.btn-elevate-hover, .btn.btn-danger.btn-elevate-hover.active, .btn.btn-danger.btn-elevate-hover:focus, .btn.btn-danger.btn-elevate-hover:active, .btn.btn-danger.btn-elevate-hover:hover {
-    -webkit-box-shadow: 0px 9px 16px 0px rgba(253, 57, 122, 0.25) !important;
-    box-shadow: 0px 9px 16px 0px rgba(253, 57, 122, 0.25) !important; }
-.show > .btn.btn-danger.btn-elevate-hover.btn-sm, .btn-group-sm.show > .btn.btn-danger.btn-elevate-hover, .btn.btn-danger.btn-elevate-hover.active.btn-sm, .btn-group-sm > .btn.btn-danger.btn-elevate-hover.active, .btn.btn-danger.btn-elevate-hover:focus.btn-sm, .btn-group-sm > .btn.btn-danger.btn-elevate-hover:focus, .btn.btn-danger.btn-elevate-hover:active.btn-sm, .btn-group-sm > .btn.btn-danger.btn-elevate-hover:active, .btn.btn-danger.btn-elevate-hover:hover.btn-sm, .btn-group-sm > .btn.btn-danger.btn-elevate-hover:hover {
-    -webkit-box-shadow: 0px 6px 16px 0px rgba(253, 57, 122, 0.25) !important;
-    box-shadow: 0px 6px 16px 0px rgba(253, 57, 122, 0.25) !important; }
+/*.show > .btn.btn-danger.btn-elevate-hover, .btn.btn-danger.btn-elevate-hover.active, .btn.btn-danger.btn-elevate-hover:focus, .btn.btn-danger.btn-elevate-hover:active, .btn.btn-danger.btn-elevate-hover:hover {*/
+/*    -webkit-box-shadow: 0px 9px 16px 0px rgba(253, 57, 122, 0.25) !important;*/
+/*    box-shadow: 0px 9px 16px 0px rgba(253, 57, 122, 0.25) !important; }*/
+/*.show > .btn.btn-danger.btn-elevate-hover.btn-sm, .btn-group-sm.show > .btn.btn-danger.btn-elevate-hover, .btn.btn-danger.btn-elevate-hover.active.btn-sm, .btn-group-sm > .btn.btn-danger.btn-elevate-hover.active, .btn.btn-danger.btn-elevate-hover:focus.btn-sm, .btn-group-sm > .btn.btn-danger.btn-elevate-hover:focus, .btn.btn-danger.btn-elevate-hover:active.btn-sm, .btn-group-sm > .btn.btn-danger.btn-elevate-hover:active, .btn.btn-danger.btn-elevate-hover:hover.btn-sm, .btn-group-sm > .btn.btn-danger.btn-elevate-hover:hover {*/
+/*    -webkit-box-shadow: 0px 6px 16px 0px rgba(253, 57, 122, 0.25) !important;*/
+/*    box-shadow: 0px 6px 16px 0px rgba(253, 57, 122, 0.25) !important; }*/
 
 .btn.btn-square {
     border-radius: 0; }
@@ -14494,7 +14494,7 @@ body.swal2-height-auto {
     padding: 0 !important; }
 .dataTables_wrapper .dataTable {
     width: 100% !important;
-    border-collapse: initial !important;
+    /*border-collapse: initial !important;*/
     border-spacing: 0 !important;
     margin: 1rem 0 !important; }
 .dataTables_wrapper .dataTable th, .dataTables_wrapper .dataTable td {
@@ -14646,7 +14646,8 @@ body.swal2-height-auto {
     margin-left: 65px; }
 
 .dataTables_wrapper .dataTable th, .dataTables_wrapper .dataTable td {
-    color: #595d6e; }
+
+    color: #000; }
 
 .dataTables_wrapper .dataTable .selected th, .dataTables_wrapper .dataTable .selected td {
     background-color: #f7f8fa;
@@ -24118,7 +24119,8 @@ td > .kt-checkbox.kt-checkbox--single {
 .kt-checkbox > span {
     border: 1px solid #d1d7e2; }
 .kt-checkbox > span:after {
-    border: solid #bfc7d7; }
+    border: solid
+    #c7396f }
 
 .kt-checkbox > input:disabled ~ span:after {
     border-color: #c8cfdd; }
@@ -24642,7 +24644,7 @@ td > .kt-radio.kt-radio--single {
 .kt-radio > span {
     border: 1px solid #d1d7e2; }
 .kt-radio > span:after {
-    border: solid #bfc7d7;
+    border: solid #c7396f;
     background: #bfc7d7; }
 
 .kt-radio > input:disabled ~ span:after {
@@ -30531,7 +30533,14 @@ td > .kt-radio.kt-radio--single {
 
 @media (max-width: 768px) {
     .kt-subheader .kt-subheader__toolbar {
-        padding-top: 0.5rem; } }
+        padding-top: 0.5rem; }
+    .kt-subheader{
+     display:block;
+    }
+    .kt-subheader .kt-subheader__toolbar{
+        display:block;
+    }
+}
 
 .kt-badge {
     padding: 0;
